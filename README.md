@@ -64,16 +64,13 @@ Your branch is up to date with 'origin/main'.</li>
     <li> Suppose if we create a new  file in the VS code , for .eg. we create a file name 'index.html' and we run the command 'git status' in VS-terminal , Now it will show Untracked files:
   (use "git add <file>..." to include in what will be committed)
         index.html. 
-  <ol> Generally we have 4 type of status 
+    <ol> Generally we have 4 type of status 
     <li> untracker </li>
     <li> modified </li>
     <li> staged </li>
     <li> unmodified </li>
-  </ol>
+    </ol>
   </li>
-    
-   
   </ul>
-      
   </li>
 </ol>
