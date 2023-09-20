@@ -89,6 +89,18 @@ Your branch is up to date with 'origin/main'.</li>
 <p> git commit -m "xyz message"</p>
 
 
+<h1> Push Command</h1>
+<p> push - upload local repo content to remote repo </p>
+<p> git push origin main</p>
+
+
+
+
+
+
+
+
+
 
 
 
