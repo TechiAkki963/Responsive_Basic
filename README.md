@@ -23,7 +23,7 @@ Setting up GIT
 <p> for e.g. - Admin@JARVIS MINGW64 ~ (master)</p>
 <ul>
   <li>
-    git config --global user.name "repository name"
+    git config --global user.name "User Account Name"
   </li>
     <li>
     git config --global user.email "github's email id"
