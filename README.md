@@ -45,16 +45,36 @@ Setting up GIT
   <li>
     once we acess the folder , on VS code editor we will open terminal and check whether git in installed or not using : git --version
   </li>
-  <li> Clone and Status
+  <li> Clone 
   <ul>
-    <li> for git Clone : in ther terminal we use git clone <url from github repo> (here we get the url from github HTTP any simply we copy )</li>
+    <li> for git Clone : in ther terminal we use : ' git clone <url from github repo>' (here we get the url from github HTTP any simply we copy )</li>
     <li> to check the list of file/folder inside the repository we use 'ls' command or we can use 'ls -a' to get the list of hidden folder</li>
     <li> then we enter the git repository via terminal using : cd gitfoldername</li>
+    <li> to clear terminal we use ; clear</li>
    
   </ul>
       
   </li>
+    <li> Status
+  <ul>
+    <li> for git status : in ther terminal we use : git status , for the first time if there nothing to change it will show On branch main
+Your branch is up to date with 'origin/main'.</li>
+    <li> Suppose we if make changes to a file in Vs code , and again run the command : ' git status' for e.g. if i make changes in my README.md file in VS code and run git status in the VS-terminal it will show me ---- modified:   README.md</li>
+    <li> Suppose if we create a new  file in the VS code , for .eg. we create a file name 'index.html' and we run the command 'git status' in VS-terminal , Now it will show Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html. 
+  <ol> Generally we have 4 type of status 
+    <li> untracker </li>
+    <li> modified </li>
+    <li> staged </li>
+    <li> unmodified </li>
+  </ol>
+  </li>
     
+   
+  </ul>
+      
+  </li>
 </ol>
 
 
