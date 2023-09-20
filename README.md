@@ -29,8 +29,29 @@ Setting up GIT
     git config --global user.email "github's email id"
   </li>
     <li>
-    git config --ls  (to show the list of items in git config)
+    git config --list  (to show the list of items in git config)
   </li>
 </ul>
+
+<h4> The Best way to keep your project sync with the Github repo is via VS Code editor</h4>
+<p> Stages to Config VS code Editor with Github</p>
+<ol>
+  <li>
+     we create a folder with any project name on the desktop 
+  </li>
+  <li>
+    we acess the folder via Vscode editor
+  </li>
+  <li>
+    once we acess the folder , on VS code editor we will open terminal and check whether git in installed or not using : git --version
+  </li>
+  <li> Clone and Status
+  <ul>
+    
+  </ul>
+  </li>
+    
+</ol>
+
 
 
