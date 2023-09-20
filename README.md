@@ -47,8 +47,12 @@ Setting up GIT
   </li>
   <li> Clone and Status
   <ul>
-    
+    <li> for git Clone : in ther terminal we use git clone <url from github repo> (here we get the url from github HTTP any simply we copy )</li>
+    <li> to check the list of file/folder inside the repository we use 'ls' command or we can use 'ls -a' to get the list of hidden folder</li>
+    <li> then we enter the git repository via terminal using : cd gitfoldername</li>
+   
   </ul>
+      
   </li>
     
 </ol>
