@@ -1,5 +1,7 @@
 # Responsive_Basic
 
+<h1> Ganpati Bappa Morya <h1>
+
 Responsive Web with Git , HTML and CSS
 
 <h1> Git and Github</h1>
