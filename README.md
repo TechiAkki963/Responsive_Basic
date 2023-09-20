@@ -71,9 +71,22 @@ Your branch is up to date with 'origin/main'.</li>
     <li> unmodified </li>
   </ol>
   </li>
-    
-   
   </ul>
-      
   </li>
 </ol>
+
+
+<h3> Add and Commit </h3>
+<h4> add </h4>
+<p> to add new or changes files to your working directory to the staging area</p>
+<p> git add <-file name-> </p><\br>
+<p>or git add . (to add all files at once) </p>
+
+<h4> commit </h4>
+<p> to record the chnages</p>
+<p> git commit -m "xyz message"</p>
+
+
+
+
+
