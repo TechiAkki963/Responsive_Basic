@@ -18,3 +18,19 @@ Setting up GIT
 <p> if it is not install go to this link <a href="https://git-scm.com/downloads">git- offlcial website</a> and download according to your system</p>
 
 
+<h3> Configuring the Git</h3>
+<p> if we see  '~'  tild symbol that means we are in our root directory </p>
+<p> for e.g. - Admin@JARVIS MINGW64 ~ (master)</p>
+<ul>
+  <li>
+    git config --global user.name "repository name"
+  </li>
+    <li>
+    git config --global user.email "github's email id"
+  </li>
+    <li>
+    git config --ls  (to show the list of items in git config)
+  </li>
+</ul>
+
+
