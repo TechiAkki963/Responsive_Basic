@@ -1,8 +1,10 @@
 # Responsive_Basic
-Responsive Web  with Git , HTML and CSS
+
+Responsive Web with Git , HTML and CSS
+
 <h1> Git and Github</h1>
 <p> to write inside a .Readme file always use HTML for better formatting</p>
-Author - Akshay Parab
+Author - TechiAkki963
 </br>
 Setting up GIT
 <ul>
@@ -16,7 +18,6 @@ Setting up GIT
 <p> for windows type : git --version (in gitbash)</p>
 <p> for mac type : git --version (in Terminal)</p>
 <p> if it is not install go to this link <a href="https://git-scm.com/downloads">git- offlcial website</a> and download according to your system</p>
-
 
 <h3> Configuring the Git</h3>
 <p> if we see  '~'  tild symbol that means we are in our root directory </p>
@@ -52,6 +53,3 @@ Setting up GIT
   </li>
     
 </ol>
-
-
-
