@@ -26,3 +26,34 @@
 > ls
 
 > ls --all
+
+## Working with Stages
+
+- Show modified files in working directory & staging area.
+
+  > git status
+
+- Add a file to your next commit (stage).
+
+  > git add [filename]
+
+- Unstage a file while keeping changes (unstage).
+
+  > git reset [filename]
+
+- Show difference between files (un/staged vs committed).
+
+  > git diff
+
+- Show difference between staged & unstaged files.
+
+  > git diff --staged
+
+- Commit staged changes as a snapshot.
+  > git commit -m "[message]"
+
+---
+
+## PUSH
+
+> git push origin main
